@@ -1,3 +1,3 @@
 # Scrabble-Game
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?43E65C5F0552EC08E22CB51F3D59B73A6B17
+https://prod.liveshare.vsengsaas.visualstudio.com/join?E9FDE036D7409A51CE43E9D4A423ABA7BF06
